@@ -16,13 +16,3 @@
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
-  [plugins.inputs]
-  buildDir = "public"
-  filePath = "some/subfolder/sitemap.xml"
-  
-  [[plugins]]
-package = "@netlify/plugin-sitemap"
-
-  [plugins.inputs]
-  buildDir = "public"
-  filePath = "some/sitemap.xml"
